@@ -1,6 +1,6 @@
 # shorekeeper-patch
 
-PAK files signature check bypass for Wuthering Waves 2.1 Live OS
+PAK files signature check bypass for Wuthering Waves 2.2 CN BETA
 
 ### How to use
 Just inject it at early startup.
